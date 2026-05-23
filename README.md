@@ -26,6 +26,7 @@ Dataset: GoEmotions → 4-class aggregated
 - `glove.6B.200d.txt` — GloVe embeddings
 
 Setup:
+
 Step 1: Check your Python version
 Open Command Prompt and run:
 bashpython --version
