@@ -22,7 +22,7 @@ Dataset: GoEmotions → 4-class aggregated
 
  Large Files (not in repo — available on request)
 - Model weights (`.pt`) — stored on Google Drive: https://drive.google.com/drive/folders/1rrD-kJKJEk0C2ZT6w53YHELxIishvgua?usp=sharing
-- `goemotions(FINAL).csv` — you can download it here: https://huggingface.co/datasets/mrm8488/goemotions/blob/bd3ed9a7817b7a9f0742593ac893ab7b2dc2b996/goemotions.csv or stored in Google Drive: https://drive.google.com/drive/folders/1rrD-kJKJEk0C2ZT6w53YHELxIishvgua?usp=sharing
+- `goemotions(FINAL).csv` — stored in Google Drive: https://drive.google.com/drive/folders/1rrD-kJKJEk0C2ZT6w53YHELxIishvgua?usp=sharing or it can be downloaded here: https://huggingface.co/datasets/mrm8488/goemotions/blob/bd3ed9a7817b7a9f0742593ac893ab7b2dc2b996/goemotions.csv or
 - `glove.6B.200d.txt` — GloVe embeddings
 
 Setup:
