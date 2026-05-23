@@ -54,6 +54,7 @@ Extract it and put glove.6B.200d.txt in the same folder as your script.
 
 ------------------------------------------------------------------------
 Single Folder Structure:
+
 TextSense_Training_Local.py 
 
 TextSense_Inference.py
