@@ -1,6 +1,6 @@
 # TextSense — Emotion Recognition from User Reviews
 
-Models: DistilBERT | Bi-LSTM | RoBERTa  **_LOCALLY TRAINED_**
+**_LOCALLY TRAINED_** Models: DistilBERT | Bi-LSTM | RoBERTa
 Task: 4-class emotion classification (anger | sadness | joy | neutral)  
 Dataset: GoEmotions → 4-class aggregated
 
@@ -52,9 +52,9 @@ Extract it and put glove.6B.200d.txt in the same folder as your script.
 
 ------------------------------------------------------------------------
 Single Folder Structure:
-TextSense_Training_Local.py 
-TextSense_Inference.py
-goemotions(FINAL).csv 
+TextSense_Training_Local.py, 
+TextSense_Inference.py,
+goemotions(FINAL).csv,
 glove.6B.200d.txt ← extract from the zip you download
 
  How to Run Inference
